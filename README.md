@@ -53,7 +53,7 @@ The infrastructure consists of:
 - **Internal Load Balancing**: Secure, internal-only traffic distribution
 - **Multi-Zone Deployment**: High availability across multiple zones
 
-## 📋 Prerequisites
+## 📋 Prerequisites 
 
 - Google Cloud Platform account
 - Google Cloud SDK installed and configured
