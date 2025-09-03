@@ -12,7 +12,7 @@ This project demonstrates how to configure a regional internal Application Load 
 - **Blue Service**: 70% of traffic (current production version)
 - **Green Service**: 30% of traffic (new application version)
 
-## 🏗️ Architecture
+## 🏗️ Architecture 
 
 The infrastructure consists of:
 - **Network**: Custom VPC (`my-internal-app`) with two subnets
