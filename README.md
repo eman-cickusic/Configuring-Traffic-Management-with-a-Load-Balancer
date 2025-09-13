@@ -6,7 +6,7 @@ https://youtu.be/Ohx8XJFkjjs
 
 A comprehensive implementation of Google Cloud's Regional Internal Application Load Balancer with blue-green deployment and traffic management capabilities.
 
-## 🎯 Project Overview  
+## 🎯 Project Overview   
 
 This project demonstrates how to configure a regional internal Application Load Balancer in Google Cloud Platform to implement blue-green deployment patterns with weighted traffic distribution. The load balancer distributes traffic between two backend services:
 - **Blue Service**: 70% of traffic (current production version)
